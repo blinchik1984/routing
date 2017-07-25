@@ -13,8 +13,8 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-    "psr-4": {
-      "AdServer\\Routing\\": ""
-    }
+        "psr-4": {
+          "AdServer\\Routing\\": "src"
+        }
   }
 }
